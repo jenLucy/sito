@@ -1,0 +1,40 @@
+td{
+	
+	background : grey;
+	width: 200px;
+	height: 150px;
+	margin:0 auto;
+}
+
+img{
+	width: 200px;
+	height: 150px;
+	margin:0 auto;
+}
+
+figure{
+	background: pink;
+width: 150px;
+
+
+}
+
+figcaption{
+	background: red;
+	text-align: center;
+
+
+
+}
+#pagina{
+	background: orange;
+	height: 100%;
+}
+
+#contenuto{
+	background: green;
+	width:95%; 
+	align-content: center;
+
+	margin: 0 auto;
+}
